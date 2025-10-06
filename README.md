@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'am Atanas 👋
+Electronics & embedded-systems student at a technical university in Bulgaria — I design and program electronic systems (firmware + PCB prototypes). I do a bit of professional work as I learn, I love programming, and I’m also a big football fan ⚽.
 
-<!--
-**AtanasOvcharov/AtanasOvcharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills & Focus
 
-Here are some ideas to get you started:
+**Hardware & Design**  
+- 🧩 **Altium Designer** – experience creating schematics and PCB layouts (analog + digital).  
+- ⚡ **Electronics fundamentals** – deep interest and hands-on practice with circuit design, debugging, and prototyping.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Firmware & Programming (Growing)**  
+- 💻 **Embedded C** – building firmware for microcontrollers (STM32)   
+- 🐍 **Python (Beginner)** – using it for small automation scripts, serial communication, and data visualization.  
+
+**Currently Learning**  
+- 📐 Advanced PCB design techniques (signal integrity, EMC).  
+- ⏱️ Firmware architecture and real-time programming concepts (RTOS, modular code).  
+- 🔗 Better integration between hardware and firmware workflows.
+
+## Contacts
+- **Email** - a.ovcharov18@gmail.com
